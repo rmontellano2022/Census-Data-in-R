@@ -53,7 +53,7 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 **NOTE: D-Lab workshops normally start 10 minutes after the scheduled start time (“Berkeley Time”). We recommend you log on at the start time to join the waiting room where hosts will message you further information.**
 
 
-# Start running the code!
+# Run the code!
 * Requesting a Census API key
 
 The tidycensus package, and any R package that accesses the Census APIs, requires you to first get a Census API key
@@ -61,6 +61,7 @@ Get one now if you don’t have one yet here: (just takes a minute): https://api
 **COME UP WITH SOMETHING**
 
 # How to get help?
+* You can download the repo and work through the tutorial by following along with the [slides](https://dlab-berkeley.github.io/Census-Data-in-R/Rcensus_data_maps-slides.html#1)
 **FIND RESOURCES**
 
 
@@ -94,17 +95,8 @@ IOKN2K! is an acronym and it stands for It’s OK Not To Know!  And like every o
 * [Fairness and Bias in Machine Learning]()
 * [R Package Development]()
 
-
 ## Contributors:  
-* [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall)  
-* [Aniket Kesari](https://dlab.berkeley.edu/people/aniket-kesari)
-* [Jae Yeon Kim](https://jaeyk.github.io/)
-* Sam Abdel-Ghaffar  
-* Guadalupe Tuñón  
-* Shinhye Choi  
-* Patty Frontiera  
-* Rochelle Terman  
-* Dillon Niederhut 
+
 
 ---
 <div style="display:inline-block;vertical-align:middle;">
